@@ -1,0 +1,185 @@
+<resources>
+    <string name="app_name">AnimeWorld</string>
+    <string name="next">Next</string>
+    <string name="tap_to_continue">Tap to continue</string>
+    <string name="name">name</string>
+    <string name="description">description</string>
+    <string name="date">date</string>
+    <string name="dash">-</string>
+    <string name="genre">Genre:</string>
+    <string name="link">Link:</string>
+    <string name="status">Status:</string>
+    <string name="Name">Name</string>
+    <string name="rating">Rating:</string>
+
+    <!--names-->
+    <string-array name="anime_titles">
+        <item>Maid Sama</item>
+        <item>Your Lie In April</item>
+        <item>Golden Time</item>
+        <item>Your Name</item>
+        <item>Bleach</item>
+    </string-array>
+
+    <!--descriptions-->
+    <string-array name="anime_descriptions">
+        <item>description agasgkailg naukgbaukbvaj kbgvak jbvakjvja</item>
+        <item>description slik hgauigba uivbaybvakhbvjk abvjaknv jkanvjak</item>
+        <item>description kslhus bgskujbg jksnjksbgu iwsbgk js</item>
+        <item>description aklhfuagku s54565 484989454 851215</item>
+        <item>description agjsig nusgnakn g54849</item>
+    </string-array>
+
+    <!--picture-->
+    <string-array name="anime_pictures">
+        <item>@drawable/maid_sama</item>
+        <item>@drawable/your_lie_in_april</item>
+        <item>@drawable/golden_time</item>
+        <item>@drawable/your_name</item>
+        <item>@drawable/bleach</item>
+    </string-array>
+
+    <!--dates-->
+    <string-array name="anime_dates">
+        <item>22/03/2012</item>
+        <item>23/03/2012</item>
+        <item>27/03/2012</item>
+        <item>29/03/2012</item>
+        <item>30/03/2012</item>
+    </string-array>
+
+    <!--genre-->
+    <string-array name="anime_genres">
+        <item>Comedy, Dub, Romance, School, Shoujo</item>
+        <item>Drama, Dub, Music, Romance, School, Shounen</item>
+        <item>Comedy, Romance, Seinen</item>
+        <item>Drama, Movie, Romance, School, Supernatural</item>
+        <item>Action, Comedy, Dub, Shounen, Super Power, Supernatural</item>
+    </string-array>
+
+    <!--status-->
+    <string-array name="anime_status">
+        <item>Completed</item>
+        <item>Completed</item>
+        <item>Completed</item>
+        <item>Completed</item>
+        <item>Completed</item>
+    </string-array>
+
+    <!--rating-->
+    <string-array name="anime_ratings">
+        <item>9/10</item>
+        <item>8/10</item>
+        <item>8.5/10</item>
+        <item>9/10</item>
+        <item>9/10</item>
+    </string-array>
+
+    <!--link-->
+    <string-array name="anime_links">
+        <item>http://kissanime.ru/Anime/Kaichou-wa- Maid-sama- Dub</item>
+        <item>http://kissanime.ru/Anime/Shigatsu-wa-Kimi-no-Uso-Dub</item>
+        <item>http://kissanime.ru/Anime/Golden-Time</item>
+        <item>http://kissanime.ru/Anime/Kimi-no-Na-wa</item>
+        <item>http://kissanime.ru/Anime/Bleach-Dub</item>
+    </string-array>
+
+    <!--wallpaper-->
+    <string-array name="anime_wallpapers">
+        <item>@drawable/maid_sama_dub</item>
+        <item>@drawable/your_lie_in_april_dub</item>
+        <item>@drawable/golden_time_dub</item>
+        <item>@drawable/your_name_dub</item>
+        <item>@drawable/bleach_dub</item>
+    </string-array>
+
+    <!--video-->
+    <string-array name="anime_videos">
+        <item>@raw/maid_sama</item>
+        <item>@raw/your_lie_in_april</item>
+        <item>@raw/golden_time</item>
+        <item>@raw/your_name</item>
+        <item>@raw/bleach</item>
+    </string-array>
+
+    <!--[uppcoming] names-->
+    <string-array name="upcoming_anime_titles">
+        <item>Koe no katachi</item>
+        <item>Mr. Osomatsu</item>
+        <item>Kaitō Tenshi Twin Angel</item>
+        <item>Time bokan</item>
+        <item>Black Lagoon</item>
+    </string-array>
+
+    <!--[uppcoming] descriptions-->
+    <string-array name="upcoming_anime_descriptions">
+        <item>description agasgkailg naukgbaukbvaj kbgvak jbvakjvja</item>
+        <item>description slik hgauigba uivbaybvakhbvjk abvjaknv jkanvjak</item>
+        <item>description kslhus bgskujbg jksnjksbgu iwsbgk js</item>
+        <item>description aklhfuagku s54565 484989454 851215</item>
+        <item>description agjsig nusgnakn g54849</item>
+    </string-array>
+
+    <!--[uppcoming] picture-->
+    <string-array name="upcoming_anime_pictures">
+        <item>@drawable/koe_no_katachi</item>
+        <item>@drawable/mr_osomatsu</item>
+        <item>@drawable/kaito_tenshi_twin_angel</item>
+        <item>@drawable/time_bokan</item>
+        <item>@drawable/black_lagoon</item>
+    </string-array>
+
+    <!--[uppcoming] dates-->
+    <string-array name="upcoming_anime_dates">
+        <item>22/03/2018</item>
+        <item>23/03/2018</item>
+        <item>27/03/2018</item>
+        <item>29/03/2018</item>
+        <item>30/03/2018</item>
+    </string-array>
+
+    <!--[uppcoming] genre-->
+    <string-array name="upcoming_anime_genres">
+        <item>Drama, Movie, Romance, School, Shounen</item>
+        <item>Comedy, Parody</item>
+        <item>Magic</item>
+        <item>Adventure, Comedy, Mecha</item>
+        <item>Action, Dub, Seinen</item>
+    </string-array>
+
+    <!--[uppcoming] status-->
+    <string-array name="upcoming_anime_status">
+        <item>Upcoming</item>
+        <item>Upcoming</item>
+        <item>Upcoming</item>
+        <item>Upcoming</item>
+        <item>Upcoming</item>
+    </string-array>
+
+    <!--[uppcoming] link-->
+    <string-array name="upcoming_anime_links">
+        <item>Coming soon</item>
+        <item>Coming soon</item>
+        <item>Coming soon</item>
+        <item>Coming soon</item>
+        <item>Coming soon</item>
+    </string-array>
+
+    <!--[uppcoming] wallpaper-->
+    <string-array name="upcoming_anime_wallpapers">
+        <item>@drawable/koe_no_katachi_dub</item>
+        <item>@drawable/mr_osomatsu_dub</item>
+        <item>@drawable/kaito_tenshi_twin_angel_dub</item>
+        <item>@drawable/time_bokan_dub</item>
+        <item>@drawable/black_lagoon_dub</item>
+    </string-array>
+
+    <!--[uppcoming] video-->
+    <string-array name="upcoming_anime_videos">
+        <item>@raw/koe_no_katachi</item>
+        <item>@raw/mr_osomatsu</item>
+        <item>@raw/kaitou_tenshi</item>
+        <item>@raw/time_bokan</item>
+        <item>@raw/black_lagoon</item>
+    </string-array>
+</resources>
